@@ -90,3 +90,9 @@
         -webkit-transition-delay: .2s;
         transition-delay: .2s;
     }
+.padded {
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 5px;
+}
